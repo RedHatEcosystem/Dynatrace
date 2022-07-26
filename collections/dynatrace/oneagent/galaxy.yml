@@ -21,7 +21,7 @@ authors:
 
 ### OPTIONAL but strongly recommended
 # A short summary description of the collection
-description: Deploys the Dynatrace OneAgent to systems
+description: Deploys the Dynatrace OneAgent to systems in a certified Ansible collection
 
 # Either a single license or a list of licenses for content inside of a collection. Ansible Galaxy currently only
 # accepts L(SPDX,https://spdx.org/licenses/) licenses. This key is mutually exclusive with 'license_file'
@@ -46,7 +46,7 @@ dependencies: {}
 repository: https://github.com/RedHatEcosystem/Dynatrace
 
 # The URL to any online docs
-documentation: https://github.com/RedHatEcosystem/Dynatrace/README.md
+documentation: https://github.com/RedHatEcosystem/Dynatrace/blob/main/collections/dynatrace/oneagent/README.md
 
 # The URL to the homepage of the collection/project
 homepage: http://dynatrace.com
