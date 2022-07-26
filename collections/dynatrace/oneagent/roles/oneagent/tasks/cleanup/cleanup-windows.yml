@@ -1,5 +1,0 @@
----
-- name: Remove leftover installer
-  win_file:
-    path: "{{ oneagent_installer_path }}"
-    state: absent

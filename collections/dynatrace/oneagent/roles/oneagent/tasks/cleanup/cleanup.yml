@@ -1,3 +1,0 @@
----
-- name: Cleanup installer and leftovers
-  include_tasks: tasks/cleanup/cleanup-{{ oneagent_system_family }}.yml
