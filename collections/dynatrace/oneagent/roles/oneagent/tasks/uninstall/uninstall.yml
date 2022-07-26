@@ -1,3 +1,0 @@
----
-- name: Uninstall OneAgent
-  include_tasks: tasks/uninstall/uninstall-{{ oneagent_system_family }}.yml
