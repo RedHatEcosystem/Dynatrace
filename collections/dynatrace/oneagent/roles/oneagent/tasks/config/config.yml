@@ -6,4 +6,4 @@
   no_log: true
 
 - name: Apply OneAgent configuration
-  include_tasks: tasks/config/config-{{ oneagent_system_family }}.yml
+  include_tasks: config-{{ oneagent_system_family }}.yml
