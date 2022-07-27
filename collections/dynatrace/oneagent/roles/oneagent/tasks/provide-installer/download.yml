@@ -12,7 +12,7 @@
              | ternary('', 'version/') + oneagent_version }}"
     "#ARCH": "{{ oneagent_download_arch }}"
 
-- include_tasks: tasks/provide-installer/download-{{ oneagent_system_family }}.yml
+- include_tasks: provide-installer/download-{{ oneagent_system_family }}.yml
 
 - name: Verify download result
   fail:
