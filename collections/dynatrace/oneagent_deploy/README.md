@@ -27,7 +27,7 @@ Installation
 
 **Ansible Galaxy**
 
-Use `ansible-galaxy install dynatrace.oneagent` to install the latest stable release of the role on your system.
+Use `ansible-galaxy install dynatrace.oneagent_deploy` to install the latest stable release of the role on your system.
 
 **Git**
 
