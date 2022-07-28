@@ -1,4 +1,4 @@
-# Ansible Collection - dynatrace.oneagent
+# Ansible Collection - dynatrace.oneagent_deploy
 
 Ansible Role: Dynatrace OneAgent
 ================
